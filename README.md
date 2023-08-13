@@ -14,6 +14,7 @@
 <a href="https://fb.com/suzal wakhley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suzal wakhley" height="30" width="40" /></a>
 <a href="https://instagram.com/5_suzal_wakhley_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5_suzal_wakhley_7" height="30" width="40" /></a>
 <a href="https://youtube.com/@suzalwakhley5329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suzal wakhley" height="30" width="40" /></a>
+ <a href="https://www.behance.net/suzalwakhley" target="blank"><img align="center" src="https://imgs.search.brave.com/3ag96B3gsysLvTgrxDLckBBq1qHWcE9bXoJpU9nqMMU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzEx/L0JlaGFuY2UtTG9n/by0yMDIwLTUwMHg1/MDAuanBn" alt="suzal wakhley" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
