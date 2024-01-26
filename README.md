@@ -19,7 +19,7 @@
 
 <h3 align="left">Social Handles for design works: </h3>
 <p align="left">
- <a href="https://www.instagram.com/suzu_dio/?igsh" target="blank"><img align="center" src="https://i.ibb.co/kggHC77/Primary-Logo-White.jpg" alt="Suzudio" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/suzu_dio/?igsh" target="blank"><img align="center" src="https://i.ibb.co/kggHC77/Primary-Logo-White.jpg" alt="Suzudio" height="30" /></a>
  <a href="https://www.behance.net/suzalwakhley" target="blank"><img align="center" src="https://imgs.search.brave.com/3ag96B3gsysLvTgrxDLckBBq1qHWcE9bXoJpU9nqMMU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzEx/L0JlaGFuY2UtTG9n/by0yMDIwLTUwMHg1/MDAuanBn" alt="suzal wakhley" height="40" width="40" /></a>
 </p>
 
