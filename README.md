@@ -49,7 +49,7 @@
    <img width="12" />
   <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" height="40" alt="C# logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/microsoft-net-logo-631EFE744A-seeklogo.com.png" height="40" alt=".NET"  />
+  <img src="https://logos-download.com/wp-content/uploads/2017/07/Microsoft_.NET_logo.png" height="40" alt=".NET"  />
   <img width="12" />
   <img src="https://react.semantic-ui.com/logo.png" height="40" alt="Semantic ui"  />
 </div>
@@ -59,7 +59,6 @@
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suzWaks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=suzWaks&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <!---
