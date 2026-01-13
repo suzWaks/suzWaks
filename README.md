@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmduemxjdjJ4ZnF6bWV2YTZ1bGFxcWp1Z25jbHhnZ3p4bTZpNzNtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif" width="680" height="428"/> </p>
 <h3 align="center">Software Developer with extra passion for front-end and graphic designs.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suzwaks&label=Profile%20views&color=0e75b6&style=flat" alt="suzwaks" /> </p>
+<p align="left"> <img src="https://www.hostimage.org/images/2026/01/13/sz-1.md.png" alt="suzwaks" /> </p>
 
 - 🌱 I’m currently learning **.NET & C#**
 
