@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Suzal Wakhley</h1>
-<p align="center"> <img src="https://www.hostimage.org/images/2026/01/13/sz-1.md.png" alt="devPic" width="680" height="428"/> </p>
+<p align="center"> <img src="https://www.hostimage.org/images/2026/01/13/sz-1.md.png" alt="devPic" width="812" height="640"/> </p>
 <h3 align="center">Software Developer with extra passion for front-end and graphic designs.</h3>
 
 - 🌱 I’m currently learning **.NET & C#**
